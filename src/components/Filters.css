@@ -1,0 +1,20 @@
+.filters {
+  width: 270px;
+  text-align: left;
+  margin-left: 20px;
+}
+
+.filters span input {
+  margin: 10px 6px;
+}
+.filters button {
+  width: 100%;
+  margin-top: 15px;
+  padding: 8px 0;
+  border: none;
+  outline: none;
+  background-color: black;
+  color: white;
+  box-shadow: 0 0 6px 0 blue;
+  font-size: 20px;
+}
